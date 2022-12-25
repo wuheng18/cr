@@ -15,7 +15,7 @@
 {"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sites/GimyTV(XB).json"},
 {"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sites/香蕉国产传媒(XB).json"},
 {"key":"csp_biubiu_黄颜仓库","name":"黄颜仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sites/黄颜仓库(XB).json"},
-{"key":"csp_appysv2_抖音影视","name":"※抖音影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"./sites/抖音影视(M).json"},
+{"key":"csp_appysv2_抖音影视","name":"※抖音影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"./sites/※抖音影视(M).json"},
 {"key":"csp_appysv2_天天视频","name":"※天天视频(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_appysv2_久九影视","name":"※久九影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://api.58qxk.cn/xgapp.php/v1/"},
 {"key": "*AIvin","name": "*AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},

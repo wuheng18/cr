@@ -1,0 +1,10 @@
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <title>请输入密码下载文件</title>
+    <script type="text/javascript">
+    var pwd=prompt("请输入密码","")
+    if (pwd!=null && pwd!="")
+    {
+        window.location.href='http://wp.anxwl.cn/down.php/985564068e0643c3c10013719637a3bb&'+pwd
+    }
+    </script>
+    请刷新页面，或[ <a href="javascript:history.back();">返回上一页</a> ]
